@@ -1,0 +1,3 @@
+npx prisma migrate dev --name available // crea el campo available
+
+npm install --save-dev @trivago/prettier-plugin-sort-imports
